@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: notification-lab
+
+server:
+  port: 8106
